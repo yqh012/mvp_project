@@ -39,5 +39,6 @@ dependencies {
     implementation "io.reactivex.rxjava3:rxjava:3.0.7"
     implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'
 
-    implementation project(':mvp_library')
+//    implementation project(':mvp_library')
+    implementation 'com.github.yqh012:mvp_project:v_1.0'
 }
