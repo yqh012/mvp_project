@@ -10,4 +10,4 @@ allprojects {
     }
 }
 
-implementation 'com.github.yqh012:mvp_project:v_1.0'
+implementation 'com.github.yqh012:mvp_project:v_1.0.1'
